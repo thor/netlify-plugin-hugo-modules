@@ -16,3 +16,5 @@ Additionally, you're in for a treat if some of your Hugo (Go) modules are privat
 - [ ] Add support for Netlify inputs with defaults
 - [ ] Add toggle for recursive checkouts of modules
 - [ ] *Maybe*: add support for multiple rewrites from HTTPS to SSH
+
+[hugo_modules]: https://gohugo.io/hugo-modules/
