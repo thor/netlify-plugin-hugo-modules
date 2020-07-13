@@ -1,0 +1,2 @@
+# Updates all Hugo modules recursively before the build, after configuring Git to use SSH for the Hugo modules.
+name: netlify-hugo-modules
